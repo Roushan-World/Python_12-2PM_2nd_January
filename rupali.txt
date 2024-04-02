@@ -1,0 +1,10 @@
+My name is Rupali Gurav.
+My name is Aditi Kute.
+My name is Sahil Rajpure.
+We are learning Python and Our Current Topics is File Handling.
+Rupali Age is 22.
+Aditi Age is 30.
+Sahil Age is 21.
+Rupali Eating Ice-Cream Alone.
+Aditi Eating Chocolate Alone.
+Sahil Chewing Vimal.
